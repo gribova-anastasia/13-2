@@ -13,8 +13,8 @@ sudo apt install ecryptfs-utils
 sudo adduser cryptouser
 ```
 
-![Название скриншота 1]()
-![Название скриншота 2]()
+![Название скриншота 1](https://github.com/gribova-anastasia/13-2/blob/0798a3f0c86a60369d46d00d7e77a13389bf1889/1.png)
+![Название скриншота 2](https://github.com/gribova-anastasia/13-2/blob/0798a3f0c86a60369d46d00d7e77a13389bf1889/2.png)
 
 
 
