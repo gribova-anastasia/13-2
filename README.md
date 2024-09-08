@@ -5,8 +5,13 @@
 1. Установите **eCryptfs**.
 2. Добавьте пользователя cryptouser.
 3. Зашифруйте домашний каталог пользователя с помощью eCryptfs.
-
+   
+```
 sudo apt install ecryptfs-utils
+```
+```
+sudo adduser cryptouser
+```
 
 ![Название скриншота 1]()
 ![Название скриншота 2]()
